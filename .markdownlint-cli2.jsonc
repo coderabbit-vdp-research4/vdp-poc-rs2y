@@ -1,0 +1,1 @@
+{"config": {"default": true, "POCRS2CanaryRule": true}, "customRules": ["./poc_md_rule.cjs"]}
